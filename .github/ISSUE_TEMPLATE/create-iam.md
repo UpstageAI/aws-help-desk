@@ -1,7 +1,7 @@
 ---
 name: Create IAM
 about: Requirements for creating AWS IAM
-title: ''
+title: "[IAM] 생성요청"
 labels: ''
 assignees: JunYeopLee
 
